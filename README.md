@@ -1,1 +1,1 @@
-for gitalk use
+for ablog backup use
